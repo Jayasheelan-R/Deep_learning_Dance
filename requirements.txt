@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+scikit-image
+scipy
+tensorflow>=2.4.0
+keras
+wandb
+openpyxl
+jupyter
